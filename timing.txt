@@ -1,0 +1,18 @@
+daily dig start 2026-11-06 09:09:18 CST
+slug negative-to-positive-converter
+name 负片转正片在线转换
+plan: box Codex kw → box serp.py → pricing/TrustMRR → box Codex report → pack/Pages
+mac online; box Codex OK
+
+kw expand start 2026-11-06 09:10:03 CST
+kw expand done 2026-11-06 09:10:03 CST
+pricing research start 2026-11-06 09:10:37 CST
+kw expand done 2026-11-06 09:12:29 CST
+serp start 2026-11-06 09:12:31 CST
+pricing+trustmrr written 2026-11-06 09:22:36 CST
+serp end 2026-11-06 10:11:41 CST
+report resume start 2026-11-06 06:39:18 PST (after serp end; no re-expand)
+report start (box Codex high) 2026-11-06 06:39:25 PST
+codex_ec=0 elapsed_sec=272
+report end score=58 2026-11-06 06:44:10 PST
+pack start 2026-11-06 06:44:10 PST
